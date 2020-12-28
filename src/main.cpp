@@ -9,7 +9,7 @@ static char cpu[30000];
 int main(int argc, char **argv) {
 	if(argc < 2) {
 		cerr << "Error: too few arguments" << endl
-		     << "Usage: brainc [brainfuck_file] [flags]" << endl;
+		     << "Usage: brainc [FILE]" << endl;
 	}
     vector<char> acc;
     char ch;
