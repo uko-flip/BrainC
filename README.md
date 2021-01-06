@@ -1,5 +1,5 @@
-# BrainC
-BrainC is a Brainfuck interpreter written in C++
+# BrainCPP
+BrainCPP is a Brainfuck interpreter written in C++
 ## Building
 ### On Linux
 1. Open terminal in repository folder
